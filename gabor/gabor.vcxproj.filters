@@ -18,12 +18,6 @@
     <ClCompile Include="filter.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="log_gabor.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="源.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="源1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

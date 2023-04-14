@@ -20,8 +20,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="filter.cpp" />
-    <ClCompile Include="log_gabor.cpp" />
-    <ClCompile Include="源.cpp" />
     <ClCompile Include="源1.cpp" />
     <ClCompile Include="loggabor.cpp" />
   </ItemGroup>
